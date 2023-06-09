@@ -3,6 +3,19 @@ layout: department-pages
 title: Finance, Marketing, & Business Management
 date: 2022-10-25
 featured_image: https://wordpress.techhigh.us/wp-content/uploads/2022/04/kanchanara-5hcV51EeeWc-unsplash-1.jpg
+shop_images:
+    - src: https://wordpress.techhigh.us/wp-content/uploads/2022/04/kanchanara-5hcV51EeeWc-unsplash-1.jpg
+      description: "Students get to learn the Stock Market."
+    - src: https://picsum.photos/600/600
+      description: "placeholder"
+    - src: https://picsum.photos/600/600
+      description: "placeholder"
+    - src: https://picsum.photos/600/600
+      description: "placeholder"
+    - src: https://picsum.photos/600/600
+      description: "placeholder"
+    - src: https://picsum.photos/600/600
+      description: "placeholder"
 certifications:
     - Everfi Financial Literacy
     - HubSpot Marketing 
